@@ -1,1 +1,3 @@
-Iniciando uma aplicação básica em NodeJS utilizando o framework Express com intuito de aprendizado e evolução da aplicação.
+Demostração básica de uma aplicação NodeJS utilizando o framework Express, com exemplos de como criar as rotas de acesso GET, POST, PUT, PATCH, DELETE (src/index.js).
+Utilização do nodemon para identificar as alterações realizadas no projeto e aplica-las
+
